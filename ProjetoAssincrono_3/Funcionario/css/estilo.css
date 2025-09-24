@@ -1,0 +1,15 @@
+body{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color:#1D809F;
+  }
+
+.container{
+        background-color:rgb(255, 255, 255);
+        h2 {text-align:center; color: rgb(20, 62, 128); text-shadow: black 0.1em 0.1em 0.2em};
+        text-align: justify;
+}
+
+
